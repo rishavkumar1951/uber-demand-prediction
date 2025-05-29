@@ -13,7 +13,6 @@ import dagshub
 dagshub.init(repo_owner='rishavkumar1951', repo_name='uber-demand-prediction', mlflow=True)
 # set the mlflow tracking uri
 mlflow.set_tracking_uri("https://dagshub.com/rishavkumar1951/uber-demand-prediction.mlflow")
-v
 # set the experiment name
 mlflow.set_experiment("DVC Pipeline")
 
