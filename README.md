@@ -20,3 +20,11 @@ Connect Dagshub to Git
 Change DAGSHUB credential in code (.py) file
 
 streamlit run app.py
+
+
+
+
+Pipeline Flow:
+
+![image](https://github.com/user-attachments/assets/58761663-b620-4bdb-9ef3-dcaa8d5891af)
+
